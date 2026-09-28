@@ -1,3 +1,4 @@
+import "./App.css";
 import Navbar from "./components/Navbar";
 import Hero from "./pages/Hero";
 import Matches from "./pages/Matches";
